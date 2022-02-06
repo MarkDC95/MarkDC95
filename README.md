@@ -2,7 +2,9 @@
 
 ![I am GitHub Readme Generator's creator](https://github.com/MarkDC95/MarkDC95/blob/main/p2.gif)
 
-I'm Mark Damien Chinnasamy, I am a recent Electronic Engineering graduate and I'm  currentlyt exploring careers in Software developement and embedded systems engineering. I enjoy learning about hardware and microcontrollers as well integreateing them into practical software applications.
+I'm Mark Damien Chinnasamy, I am a recent Electronic Engineering graduate and I'm  currentlyt exploring careers 
+in Software developement and embedded systems engineering. I enjoy learning about hardware and microcontrollers 
+as well integreateing them into practical software applications.
 
 
 
