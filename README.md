@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <img src = "https://github.com/MarkDC95/MarkDC95/blob/main/p2.gif" float="centre" width="1080" />
-
+<p>
 I'm Mark Damien Chinnasamy, I am a recent Electronic Engineering graduate and I'm  currently exploring careers in Software developement 
 and embedded systems engineering. I enjoy learning about hardware and microcontrollers as well integreting them into practical software
 applications.
-
+<p/>
 
 
 
