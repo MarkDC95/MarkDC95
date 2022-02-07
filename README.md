@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="200"/>(https://github.com/MarkDC95/MarkDC95/blob/main/p2.gif) ![I am GitHub Readme Generator's creator]
+<img src = "https://github.com/MarkDC95/MarkDC95/blob/main/p2.gif" width="200"/>(https://github.com/MarkDC95/MarkDC95/blob/main/p2.gif) ![I am GitHub Readme Generator's creator]
 
 I'm Mark Damien Chinnasamy, I am a recent Electronic Engineering graduate and I'm  currently exploring careers 
 in Software developement and embedded systems engineering. 
