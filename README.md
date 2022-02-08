@@ -9,7 +9,7 @@ applications.
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MarkDC95)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/MarkDamienChinnasamy1995/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@markdc95/)  
+
 
 _________________________
 # Project Examples
@@ -17,8 +17,13 @@ _________________________
 ## University Design Projects
 
 ### MOTION DETECTION SYSTEM USING PIR SENSORS & IMAGE PROCESSING • DESIGN PROJECT • SECURTY ALARM SYSTEM DESIGN
+  
+[![Watch the video](https://img.youtube.com/vi/dwKnSbiTHOY/0.jpg)](https://www.youtube.com/embed/dwKnSbiTHOY)
 
 ### TEMPERATURE ACCESS CONTROL SYSTEM USING WIRELESS COMMUNICATION • DESIGN PROJECT 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kYRVERmXKSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+  
+[![Watch the video](https://img.youtube.com/vi/kYRVERmXKSE/0.jpg)](https://www.youtube.com/embed/kYRVERmXKSE) 
 ## Personal Projects
+
+# Contact Links  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MarkDC95)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/MarkDamienChinnasamy1995/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@markdc95/)  
