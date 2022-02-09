@@ -24,6 +24,10 @@ _________________________
 ### TEMPERATURE ACCESS CONTROL SYSTEM USING WIRELESS COMMUNICATION • DESIGN PROJECT 
   
 [![Watch the video](https://img.youtube.com/vi/kYRVERmXKSE/0.jpg)](https://www.youtube.com/embed/kYRVERmXKSE) 
+
+
+[Click HERE to view the project's repository](https://github.com/MarkDC95/Design-3A-Temperature-based-Access-Control-project-/blob/main/README.md)
+
 ## Personal Projects
 
 # Contact Links  
