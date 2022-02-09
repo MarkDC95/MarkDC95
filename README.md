@@ -16,7 +16,7 @@ applications.
 _________________________
 # 2. Project Examples
 
-## 2.1 University Design Projects
+## 2.1. University Design Projects
 
 ### MOTION DETECTION SYSTEM USING PIR SENSORS & IMAGE PROCESSING • DESIGN PROJECT • SECURTY ALARM SYSTEM DESIGN
   
@@ -32,7 +32,7 @@ For Detailed Information:
 For Detailed Information:
 [Click HERE to view the project's repository](https://github.com/MarkDC95/Design-3A-Temperature-based-Access-Control-project-/blob/main/README.md)
 
-## 2.2 Personal Projects
+## 2.2. Personal Projects
 
 # Content to be added 
 
