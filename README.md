@@ -20,12 +20,14 @@ _________________________
   
 [![Watch the video](https://img.youtube.com/vi/dwKnSbiTHOY/0.jpg)](https://www.youtube.com/embed/dwKnSbiTHOY)
 
+For Detailed Information:
 [Click HERE to view the project's repository](https://github.com/MarkDC95/Design-3B-GUI-motion-detection-Alarm-system-using-Image-Processing-and-PIR-Sensors/blob/main/README.md)
 
 ### TEMPERATURE ACCESS CONTROL SYSTEM USING WIRELESS COMMUNICATION • DESIGN PROJECT 
   
 [![Watch the video](https://img.youtube.com/vi/kYRVERmXKSE/0.jpg)](https://www.youtube.com/embed/kYRVERmXKSE) 
 
+For Detailed Information:
 [Click HERE to view the project's repository](https://github.com/MarkDC95/Design-3A-Temperature-based-Access-Control-project-/blob/main/README.md)
 
 ## Personal Projects
