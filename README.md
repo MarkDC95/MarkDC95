@@ -36,5 +36,7 @@ For Detailed Information:
 
 # Content to be added 
 
-# 3. Contact Links  
+# 3. Contact Links 
+email: markdamienchinasamy@gmail.com
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MarkDC95)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/MarkDamienChinnasamy1995/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@markdc95/)  
