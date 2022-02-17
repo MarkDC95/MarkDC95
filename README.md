@@ -4,7 +4,7 @@
 <p  float= "centre">
   
 # About me: 
-I'm Mark Damien Chinnasamy, I am a recent Electronic Engineering graduate and I'm  currently exploring careers in Software developement 
+I'm Mark Damien Chinnasamy, I am a recent Electronic Engineering graduate and I'm  currently exploring careers in Software development 
 and embedded systems engineering. I enjoy learning about hardware and microcontrollers as well integreting them into practical software
 applications.
 <p/>
