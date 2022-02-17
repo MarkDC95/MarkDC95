@@ -18,7 +18,7 @@ _________________________
 
 ## 2.1. University Design Projects
 
-### MOTION DETECTION SYSTEM USING PIR SENSORS & IMAGE PROCESSING • DESIGN PROJECT • SECURTY ALARM SYSTEM DESIGN
+### MOTION DETECTION SYSTEM USING PIR SENSORS & IMAGE PROCESSING • DESIGN PROJECT • SECURITY ALARM SYSTEM DESIGN
   
 [![Watch the video](https://img.youtube.com/vi/dwKnSbiTHOY/0.jpg)](https://www.youtube.com/embed/dwKnSbiTHOY)
 
