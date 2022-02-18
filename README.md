@@ -9,7 +9,7 @@ and Embedded systems engineering. I enjoy learning about hardware and microcontr
 applications. Im have started learning courses in machine learning using tensorflow, and I am lookinforward to learninh how to deploy
 that within the programming architecture of an embedded system. 
   
-There is still a lot I dont know , and a lot I want to learn about before and I think that GitHub will be a good place to document the
+There is still a lot I dont know , and a lot I want to learn about. I think that GitHub will be a good place to document the
 highlights of my findings and experiences.
 <p/>
 
