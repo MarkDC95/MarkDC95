@@ -18,7 +18,7 @@ Currently studying:
 -Month 2 of Data Structures and algortihms
 
 # Upcoming Course
-Introduction to Machine Learning and Tensoflow
+Introduction to Machine Learning and Tensorflow
 
 
 
