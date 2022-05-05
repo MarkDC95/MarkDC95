@@ -13,6 +13,15 @@ There is still a lot I dont know , and a lot I want to learn about.
 I think that GitHub will be a good place to document the highlights of my findings and experiences.
 <p/>
 
+Current Priority List:
+Currently studying:
+-Month 2 of Data Structures and algortihms
+
+Upcoming Course
+Introduction to Machine Learning and Tensoflow
+
+
+
 
 _________________________
 # 2. Project Examples
