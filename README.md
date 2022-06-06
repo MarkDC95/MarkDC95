@@ -15,7 +15,10 @@ I think that GitHub will be a good place to document the highlights of my findin
 
 # Current Priority List:
 Currently studying:
--Month 2 of Data Structures and algortihms
+-Month 3 of Data Structures and algortihms
+
+Project
+-Chessusing python/pygame/git version control and OOP
 
 # Upcoming Course
 Introduction to Machine Learning and Tensorflow
