@@ -18,13 +18,15 @@ Currently studying:
 -Month 3 of Data Structures and algortihms
 
 Project
--Chess using python/pygame
-#### Goals:
+- Chess using python & pygame
+#### Goals for project:
 becoming more proficient with git version control and OOP
 
 # Upcoming Course
 Introduction to JavaScript
+
 React/React Native
+
 Introduction to Machine Learning and Tensorflow
 
 
