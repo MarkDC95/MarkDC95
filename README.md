@@ -7,10 +7,12 @@
 I'm **Mark Damien Chinnasamy**, I am a recent Electronic Engineering graduate and I'm  currently exploring careers in Software development 
 and Embedded systems engineering. I enjoy learning about hardware, microcontrollers, as well integrating them into practical software
 applications. I have started learning courses in machine learning using tensorflow, and I am looking forward to learning how to deploy
-that within the programming architecture of an embedded system. 
+that within the architecture of an embedded system. 
   
 There is still a lot I dont know , and a lot I want to learn about.
 I think that GitHub will be a good place to document the highlights of my findings and experiences.
+
+Hope you enjoy and be kind :)
 <p/>
 
 # Current Priority List:
