@@ -8,6 +8,7 @@ I'm **Mark Damien Chinnasamy**, I am a recent Electronic Engineering graduate an
 and Embedded systems engineering. I enjoy learning about hardware, microcontrollers, as well integrating them into practical software
 applications. I have started learning courses in machine learning using tensorflow, and I am looking forward to learning how to deploy
 that within the architecture of an embedded system. Software engineering basics and computer Science fundamentals is where my main focus is currently.
+  
 I really want to learn how to develop software that is both functional, clean and scalable. I realised that I genuinely enjoy design especially 
 if its a broadly defined problem. Programming feels both flexible and adaptaive but at the same time allows you to create a practical solution
 or final product. I really do believe that this is my niche and its what I'm suppose to do, even if I did discover it a bit later in life.  
