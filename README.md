@@ -57,8 +57,10 @@ For Detailed Information:
 ## 2.2. Personal Projects
 
 ### Chess using Python 
+#### Status - ONGOING
+
 For Detailed Information:
-[Click HERE to view the project's repository]([https://github.com/MarkDC95/Design-3A-Temperature-based-Access-Control-project-/blob/main/README.md](https://github.com/MarkDC95/Chessgame))
+[Click HERE to view the project's repository](https://github.com/MarkDC95/Chessgame)
 # 3. Contact Links 
 Email: markdamienchinasamy@gmail.com
 
