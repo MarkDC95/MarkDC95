@@ -29,8 +29,9 @@ Currently studying:
 
 # Upcoming Course
 - Introduction to JavaScript ->React ->ReactNative
-- Introduction to Machine Learning and Tensorflow
-- SQL refresher -> MongoDB
+- Machine Learning and Deep Learnign with Tensorflow
+- JS 
+- 
 
 
 _________________________
