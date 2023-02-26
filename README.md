@@ -31,7 +31,7 @@ Currently studying:
 - Introduction to JavaScript ->React ->ReactNative
 - Machine Learning and Deep Learnign with Tensorflow
 - JS 
-- 
+- Personal Website using React JS
 
 
 _________________________
