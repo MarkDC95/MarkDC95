@@ -28,7 +28,7 @@ Currently studying:
 - Becoming more proficient with git version control and OOP
 
 # Upcoming Course
-- Introduction to JavaScript ->React ->ReactNative
+- Introduction to JavaScript -> React ->ReactNative
 - Machine Learning and Deep Learnign with Tensorflow
 - JS 
 - Personal Website using React JS
@@ -38,6 +38,9 @@ _________________________
 # 2. Project Examples
 
 ## 2.1. University Design Projects
+
+### Acoustic Fault and Anomaly Detection  of Industrial Machinery Using ML • Honours Research and Design Project
+[![Watch the video](https://img.youtube.com/vi/dwKnSbiTHOY/0.jpg)](https://youtu.be/EEtOLmF5xsY)
 
 ### MOTION DETECTION SYSTEM USING PIR SENSORS & IMAGE PROCESSING • DESIGN PROJECT • SECURITY ALARM SYSTEM DESIGN
   
