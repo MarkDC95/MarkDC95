@@ -29,8 +29,8 @@ Currently studying:
 
 # Upcoming Course
 - Introduction to JavaScript -> React ->ReactNative
-- Machine Learning and Deep Learnign with Tensorflow
-- JS 
+- Machine Learning and Deep Learning with Tensorflow
+- C# : udemy 
 - Personal Website using React JS
 
 
