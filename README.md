@@ -18,16 +18,7 @@ of my findings and experiences.
 Hope you enjoy and be kind :)
 <p/>
 
-# Current Priority List:
-Currently studying:
-- Month 3 of Data Structures and algortihms
-
-# Project
-- Chess using python & pygame
-#### Goals for project:
-- Becoming more proficient with git version control and OOP
-
-# Upcoming Course
+# 1. Upcoming Courses
 - Introduction to JavaScript -> React ->ReactNative
 - Machine Learning and Deep Learning with Tensorflow
 - C# : udemy 
