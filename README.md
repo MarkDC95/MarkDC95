@@ -4,7 +4,7 @@
 <p  float= "centre">
   
 # About me: 
-I'm **Mark Damien Chinnasamy**, I am a recent Electronic Engineering graduate and I'm  currently exploring careers in Software development 
+I'm **Mark**, I am a recent Electronic Engineering graduate and I'm  currently exploring careers in Software development 
 and Embedded systems engineering. I enjoy learning about hardware, microcontrollers, as well integrating them into practical software
 applications. I have started learning courses in machine learning using tensorflow, and I am looking forward to learning how to deploy
 that within the architecture of an embedded system. Software engineering basics and computer Science fundamentals is where my main focus is currently.
