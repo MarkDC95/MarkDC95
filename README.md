@@ -31,6 +31,7 @@ _________________________
 ## 2.1. University Design Projects
 
 ### Acoustic Fault and Anomaly Detection  of Industrial Machinery Using ML • Honours Research and Design Project
+[IEEE Published Conference Article](https://ieeexplore.ieee.org/document/10445053)
 
 ### MOTION DETECTION SYSTEM USING PIR SENSORS & IMAGE PROCESSING • DESIGN PROJECT • SECURITY ALARM SYSTEM DESIGN
   
