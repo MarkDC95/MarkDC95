@@ -19,10 +19,8 @@ Hope you enjoy and be kind :)
 <p/>
 
 # 1. Upcoming Courses
-- Introduction to JavaScript -> React ->ReactNative
-- Machine Learning and Deep Learning with Tensorflow
 - C# : udemy 
-- Personal Website using React JS
+
 
 
 _________________________
