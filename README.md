@@ -18,9 +18,11 @@ of my findings and experiences.
 Hope you enjoy and be kind :)
 <p/>
 
-# 1. Upcoming Courses
-- C# : udemy 
-
+# 1. Field of interests currently pursuing 
+-Data Science and Machine Learning
+Software Engineering
+- C# :
+-Electronic Engineering: Embedded systems
 
 
 _________________________
@@ -30,6 +32,8 @@ _________________________
 
 ### Acoustic Fault and Anomaly Detection  of Industrial Machinery Using ML • Honours Research and Design Project
 [IEEE Published Conference Article](https://ieeexplore.ieee.org/document/10445053)
+My research paper focuses on the domain of Acoustic Anomaly Detection (AAD) in industrial machinery using Deep Learning techniques. The primary objective of this study is to develop a reliable system for detecting anomalies in the acoustic patterns of industrial machines. In large-scale industrial environments, the early detection of faults and anomalies is critical to ensure the uninterrupted operation of machinery, minimize downtime, and optimize maintenance efforts. The datasets used in this research encompass a range of Signal-to-Noise Ratios (SNR) to simulate diverse operating conditions for industrial fans and pumps. After preprocessing each audio sample was transformed into 9 segments of shape 128 x 32 log mel-spectrograms. The study encompasses a comprehensive analysis of Convolutional Autoencoders (CAE) and Dense Autoencoders (DAE). These models are trained and evaluated against real-world industrial datasets (MIMII dataset), and their performance is meticulously compared. The results for the DAE and CAE had shown over 0.80 at the 6 dB SNR level and decaying results as the SNR level worsens. This research confirms some of the trends pointed out by the literature and provides detailed insight into how the autoencoders are developed and their properties could be used in order to detect anomalous behavior in audio data.
+Full Documentation is available on request.
 
 ### MOTION DETECTION SYSTEM USING PIR SENSORS & IMAGE PROCESSING • DESIGN PROJECT • SECURITY ALARM SYSTEM DESIGN
   
