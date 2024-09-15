@@ -19,12 +19,18 @@ Hope you enjoy and be kind :)
 <p/>
 
 # 1. Field of interests currently pursuing 
--Data Science and Machine Learning
-Software Engineering
-- C# :
--Electronic Engineering: Embedded systems
+## 1.1 Data Science and Machine Learning
+    - Python and Tensorflow : Machine learning, Deep learning, Digital Image processing, Digital Signal Processing
+## 1.2 Software Engineering
+    - C# : MS DotNET with MS SQL DB 
+    - Flutter and Dart: Professional experience with mobile app development and deployment for both ios and android. 
+    - JS : Professional Experience with Thingsboard and IoT, mainly uses Angular JS for widget and dashboard development using web technologies within the thingsboard framework.
+    - MQTT: Networking protocols
+    - Familiar with Windows/ MAC  and LINUX system environments
 
-
+## 1.3 Electronic Engineering: Embedded systems
+    - C++ : ARM STM microcontrollers/ ESP32 MCU/Arduino MCU/ Teensy 4.1 MCU with Arm Coretx M7 chips
+    - ROS : Robotic Arm project to work on Hardware and FUSION 360 for 3D printing
 _________________________
 # 2. Project Examples
 
